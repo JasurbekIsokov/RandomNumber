@@ -1,2 +1,2 @@
 # RandomNumber
-<h2>a game of finding the number you think</h2>
+<h2>A game of finding the number you think</h2>
